@@ -26,12 +26,6 @@ Go back into session
 tmux attach -t NewSession
 ```
 
-Enable plugins
-
-```
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-```
-
 ## Shortcuts
 
 - Prefix: `CTRL + t`
